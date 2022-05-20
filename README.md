@@ -8,4 +8,5 @@
 
 **Instal XAMPP**
 <br>Unduh XAMPP dari https://www.apachefriends.org/download.html dan pilih versi portebel untuk memudahkan proses installasi. Kemudian extract file tersebut, sesuaikan direktorinya.
+
 ![p](gambar/ssfilexampp.png)
