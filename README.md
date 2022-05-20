@@ -18,5 +18,5 @@
 <br>-Dokumen website
 <br>Semua file website tempatkan di direktori: ** \xampp\htdocs\ **
 <br>-Database MySQL
-<br>Direktori: **\xampp\mysql**
+<br>Direktori: _\xampp\mysql_
 <br>Manajemen database: http://localhost/phpmyadmin
