@@ -13,9 +13,9 @@
 # 2. Menjalankan Web Server
 <br>Untuk menjalankan web server dari menu XAMPP Control.
 ![p](gambar/ssxampp.png)
-<br>*Uji coba apakah server sudah berkerja dengan baik http://127.0.0.1 atau http://localhost
+*Uji coba apakah server sudah berkerja dengan baik http://127.0.0.1 atau http://localhost
 <br>Tampil halaman utama XAMPP jika server sudah bekerja dengan baik.
-<br>*Dokumen website
+*Dokumen website
 <br>Semua file website tempatkan di direktori: **\xampp\htdocs\**
 <br>*Database MySQL
 <br>Direktori: **\xampp\mysql**
