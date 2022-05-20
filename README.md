@@ -17,7 +17,7 @@
 
 <br>Tampil halaman utama XAMPP jika server sudah bekerja dengan baik.
 <br>-Dokumen website
-<br>Semua file website tempatkan di direktori: __\xampp\htdocs\__.
+<br>Semua file website tempatkan di direktori: \xampp\htdocs\
 
 <br>-Database MySQL
 <br>Direktori: **\xampp\mysql**
