@@ -51,7 +51,7 @@
 ![p](gambar/ss7.png)
 
 # 7. Membuat Form Input
-![p](gambar/ss8.png)
+![p](gambar/sspost.png)
 ![p](gambar/ss9.png)
 
 # Operator
