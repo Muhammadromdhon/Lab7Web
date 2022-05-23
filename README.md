@@ -38,3 +38,8 @@
 <br>Kemudian untuk mengakses hasilnya melalui URL:
 <br>http://localhost/lab7_php_dasar/php_dasar.php
 ![p](gambar/ss3.png)
+
+# 5. Variable PHP
+<br>Menambahkan variable pada program
+![p](gambar/ss4.png)
+![p](gambar/ss5.png)
