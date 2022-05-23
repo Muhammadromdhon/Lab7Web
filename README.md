@@ -49,3 +49,10 @@
 <br>Untuk mengakses menggunakan URL:
 <br>http://localhost/lab7_php_dasar/latihan2.php?nama=Muhammad%20Romdhon
 ![p](gambar/ss7.png)
+
+# 7. Membuat Form Input
+![p](gambar/ss9.png)
+
+# Operator
+![p](gambar/ssoperator.png)
+![p](gambar/ssoperatorr.png)
