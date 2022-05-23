@@ -62,3 +62,12 @@
 # Kondisi Switch
 ![p](gambar/sskonisiswitch.png)
 ![p](gambar/sskondisiswitchh.png)
+# Perulangan for
+![p](gambar/ssperulanganfor.png)
+![p](gambar/ssperulanganforr.png)
+# Perulangan While
+![p](gambar/ssperulanganwhile.png)
+![p](gambar/ssperulanganwhilee.png)
+# Perulangan dowhile
+![p](gambar/ssperulangandowhile.png)
+![p](gambar/ssperulangandowhilee.png)
