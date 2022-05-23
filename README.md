@@ -43,3 +43,9 @@
 <br>Menambahkan variable pada program
 ![p](gambar/ss4.png)
 ![p](gambar/ss5.png)
+
+# 6. Predefine Variable $_GET
+![p](gambar/ss8.png)
+<br>Untuk mengakses menggunakan URL:
+<br>http://localhost/lab7_php_dasar/latihan2.php?nama=Muhammad%20Romdhon
+![p](gambar/ss7.png)
