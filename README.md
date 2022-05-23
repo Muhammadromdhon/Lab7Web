@@ -56,3 +56,9 @@
 # Operator
 ![p](gambar/ssoperator.png)
 ![p](gambar/ssoperatorr.png)
+# Kondisi IF
+![p](gambar/sskondisiif.png)
+![p](gambar/sskondisiiff.png)
+# Kondisi Switch
+![p](gambar/sskonisiswitch.png)
+![p](gambar/sskondisiswitchh.png)
